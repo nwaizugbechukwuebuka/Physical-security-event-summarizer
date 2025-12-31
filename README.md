@@ -187,7 +187,7 @@ Pull requests are welcome. Please ensure code is tested and linted.
 
 ## 📄 License
 
-MIT License © 2025 Your Name
+MIT License © 2025 DeepWork Society Team
 
 <div align="center">
 
@@ -197,4 +197,5 @@ MIT License © 2025 Your Name
 [![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/yourdiscordinvite)
 
 </div>
+
 
