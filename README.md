@@ -191,9 +191,10 @@ MIT License © 2025 Your Name
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717.svg?style=flat&logo=github)](https://github.com/nwaizugbechukwuebuka/Physical-security-event-summarizer)
+[![GitHub](https://img.shields.io/badge/GitHub-nwaizugbechukwuebuka-181717.svg?style=flat&logo=github)](https://github.com/nwaizugbechukwuebuka/Physical-security-event-summarizer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile/)
 [![X (Twitter)](https://img.shields.io/badge/Follow%20us%20on-X-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/yourtwitterhandle)
 [![Discord](https://img.shields.io/badge/Join%20us%20on-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/yourdiscordinvite)
 
 </div>
+
