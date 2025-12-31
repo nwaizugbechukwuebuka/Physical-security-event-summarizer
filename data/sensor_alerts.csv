@@ -1,0 +1,3 @@
+timestamp,sensor_id,alert_type,details
+2025-12-30T14:24:00Z,SEN-01,Door Forced,Main entrance door forced open
+2025-12-30T14:26:00Z,SEN-02,Glass Break,Window broken in office

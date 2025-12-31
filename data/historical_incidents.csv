@@ -1,0 +1,3 @@
+incident_id,date,type,description,severity
+INC-001,2025-11-15,Unauthorized Access,Person entered restricted area,High
+INC-002,2025-11-20,Fire Alarm,Fire detected in server room,Critical

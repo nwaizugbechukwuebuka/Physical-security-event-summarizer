@@ -1,0 +1,4 @@
+[
+  {"timestamp": "2025-12-30T14:23:00Z", "camera_id": "CAM-01", "event": "Person detected at main entrance"},
+  {"timestamp": "2025-12-30T14:25:00Z", "camera_id": "CAM-02", "event": "Vehicle detected in parking lot"}
+]
